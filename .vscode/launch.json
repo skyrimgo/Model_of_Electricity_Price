@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "GA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ElectricityUsers",
+            "request": "launch",
+            "mainClass": "ElectricityUsers",
+            "projectName": "GA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GA_ElectricityUsers",
+            "request": "launch",
+            "mainClass": "GA_ElectricityUsers",
+            "projectName": "GA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GA_ElectricitySupply",
+            "request": "launch",
+            "mainClass": "GA_ElectricitySupply",
+            "projectName": "GA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GA_ElectricityGeneration",
+            "request": "launch",
+            "mainClass": "GA_ElectricityGeneration",
+            "projectName": "GA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GA_ElectricityFeneration",
+            "request": "launch",
+            "mainClass": "GA_ElectricityFeneration",
+            "projectName": "GA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ElectricityGeneration",
+            "request": "launch",
+            "mainClass": "ElectricityGeneration",
+            "projectName": "GA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GA",
+            "request": "launch",
+            "mainClass": "GA",
+            "projectName": "GA"
+        }
+    ]
+}
